@@ -1,5 +1,5 @@
 # Queri
-Query is a WebRTC based online video chat application inspired by Web Dev Simplified's chat application.
+Query is a WebRTC based online video chat application inspired by Web Dev Simplified's video chat application.
 
 # Warning
 Modules of this project are not included in this git repository, so you cannot use it as it is. Download these from the command prompt embedden in VSC:
